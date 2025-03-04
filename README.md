@@ -54,15 +54,12 @@ With open-source tools, and the community spirit of the San Diego Bitcoiners, we
   * Alice shared a sparrow wallet file (password protected) and a 24 word seed phrase for one of the keys in a 3-of-5 multisig wallet
     * bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon bacon
     * “My husband (or Son if my husband is deceased or incapacitated) will send you a partially-signed bitcoin transaction (PSBT) for you to sign with this key. They already have the wallet password and other keys. Check their ID/passport.”
-    * My dead man’s switch
-     * Email my Husband the following message: “Hello, this is Bob/Charlie. Alice has not responded to our quarterly Badger Legacy data share. I have information to recover her Bitcoin wallet, please Signal message me at your convenience.”
+    * Dead man’s switch: Email my Husband the following message: “Hello, this is Bob/Charlie. Alice has not responded to our quarterly Badger Legacy data share. I have information to recover her Bitcoin wallet, please Signal message me at your convenience.”
   * Bob shared a 12 word seed phrase and directions for the passphrase
     * gym gym gym gym gym gym gym gym gym gym gym gym
     * Passphrase is with my lawyer Jim
     * “The wallet is native segwit with the standard derivation path. Give seed and passphrase location to my Daughter if asked. She already has this info but if it gets lost or destroyed she will rely on this group. Here is her instagram, get to know her face.”
-    * My dead man’s switch
-    *  test
-     * Signal message my Daughter this, verbatim: “Honey, if you’re receiving this it’s because I have unexpectedly passed. Please work with Alice or Charlie if you need help recovering my Bitcoin. I am so proud of you, and love you with all my heart. -Dad.”
+    * My dead man’s switch: Signal message my Daughter this, verbatim: “Honey, if you’re receiving this it’s because I have unexpectedly passed. Please work with Alice or Charlie if you need help recovering my Bitcoin. I am so proud of you, and love you with all my heart. -Dad.”
   * Charlie shared a veracrypt encrypted container
     * “Send this container if requested by the following emails: wife@gmail.com, son@protonmail.com, son2@outlook365.com, they will know how to decrypt the container.”
     * My dead man’s switch, post the following as a public message on Nostr:
