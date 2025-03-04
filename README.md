@@ -96,4 +96,6 @@ This process can be done by anyone with only the people involved knowing it exis
 * Serving as a holder of fellowship details
 * Sending automated alerts with coreybot
 
-Reach out to Corey for any of the above.
+Reach out to [Corey](https://corey.lol/) for any of the above.
+
+[Github Repo](https://github.com/inpharmaticist/badgerlegacy/edit/main/README.md)
