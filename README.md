@@ -61,6 +61,7 @@ With open-source tools, and the community spirit of the San Diego Bitcoiners, we
     * Passphrase is with my lawyer Jim
     * “The wallet is native segwit with the standard derivation path. Give seed and passphrase location to my Daughter if asked. She already has this info but if it gets lost or destroyed she will rely on this group. Here is her instagram, get to know her face.”
     * My dead man’s switch
+    *  test
      * Signal message my Daughter this, verbatim: “Honey, if you’re receiving this it’s because I have unexpectedly passed. Please work with Alice or Charlie if you need help recovering my Bitcoin. I am so proud of you, and love you with all my heart. -Dad.”
   * Charlie shared a veracrypt encrypted container
     * “Send this container if requested by the following emails: wife@gmail.com, son@protonmail.com, son2@outlook365.com, they will know how to decrypt the container.”
