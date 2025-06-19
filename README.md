@@ -98,4 +98,4 @@ This process can be done by anyone with only the people involved knowing it exis
 
 Reach out to [Corey](https://corey.lol/) for any of the above.
 
-[Github Repo](https://github.com/inpharmaticist/badgerlegacy/edit/main/README.md)
+[Github Repo](https://github.com/inpharmaticist/badgerlegacy)
